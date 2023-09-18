@@ -1,5 +1,5 @@
 # 💫 About Me:
-Used to work for DXC, about to work for Oddball<br>Full stack developer in Java and React. Soon will be working frontend full-time.
+Frontend developer at Oddball<br>Main focus on React.
 
 
 ## 🌐 Socials:
