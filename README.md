@@ -1,9 +1,9 @@
 # 💫 About Me:
 Frontend / Full-Stack developer whose currently looking for a new opportunity! 👀 <br>
-My main focus is React using NextJS, but I also know the basics of Remix.
-In the past I have worked with CMS'es like Strapi, Sanity & DatoCMS.
-Backend wise I can work with Java Spring Boot, NodeJS & I have a basic understanding of PHP with Symfony.
-Using Udemy, I have taken courses in React Native (2025), React (2022), Vue (2021) & AWS (2020).
+My main focus is React using NextJS, but I also know the basics of Remix. <br>
+In the past I have worked with CMS'es like Strapi, Sanity & DatoCMS. <br>
+Backend wise I can work with Java Spring Boot, NodeJS & I have a basic understanding of PHP with Symfony. <br>
+Using Udemy, I have taken courses in React Native (2025), React (2022), Vue (2021) & AWS (2020). <br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/styn.vercauteren) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/styn-vercauteren-96918018b/)
