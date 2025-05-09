@@ -1,5 +1,5 @@
 # 💫 About Me:
-Frontend / Full-Stack developer whose currently looking for a new opportunity! 👀 <br>
+Frontend / Full-Stack developer whose working for Orthobroker. <br>
 My main focus is React using NextJS, but I also know the basics of Remix. <br>
 In the past I have worked with CMS'es like Strapi, Sanity & DatoCMS. <br>
 Backend wise I can work with Java Spring Boot, NodeJS & I have a basic understanding of PHP with Symfony. <br>
